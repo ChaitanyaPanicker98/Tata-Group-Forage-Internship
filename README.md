@@ -1,88 +1,62 @@
 # 📊 Data Visualisation: Empowering Business with Effective Insights
 
-Welcome to my project on leveraging **data visualisation for business decision-making**. This repository documents how data-driven visuals can guide CEOs and CMOs in understanding and acting on critical insights.
-
-## 🧠 Project Overview
-
-This project demonstrates:
-- Framing business scenarios from leadership perspectives
-- Selecting the most impactful visuals
-- Creating dashboards using Tableau / Power BI
-- Effectively communicating insights for strategic decision-making
+This repository contains my completed tasks from the **Forage Virtual Internship Program** focused on **Data Visualisation for Business Decision-Making**. The program was designed to simulate the role of a **Data Analyst** working with executive leadership (CEO & CMO), providing insights through effective data storytelling.
 
 ---
 
-## 📌 Tasks & Deliverables
+## 🚀 Overview
+
+The virtual internship involved four key stages:
 
 ### ✅ Task 1: Framing the Business Scenario
-- Framed questions for CEO & CMO to gain insight into business concerns
-- Focused on **revenue growth**, **customer retention**, **marketing effectiveness**, and **operational efficiency**
+- **Objective:** Understand the needs of senior leadership and draft relevant business questions.
+- **Focus:** Empathizing with the CEO and CMO to ask the right questions that drive data collection and analysis.
 
-**Example Questions:**
-- What is the current customer churn rate across regions?
-- Which marketing channels drive the highest ROI?
-- Are there underperforming product categories?
+### 📈 Task 2: Choosing the Right Visuals
+- **Objective:** Select appropriate data visualisations to communicate insights clearly.
+- **Tools:** Charts, Graphs, and Diagrams best suited to different types of data.
 
----
+### 🛠️ Task 3: Creating Effective Visuals
+- **Objective:** Translate analytical findings into dashboards and visuals.
+- **Tools Used:** Tableau / Power BI
+- **Outcome:** Visuals created to answer specific leadership questions.
 
-### ✅ Task 2: Choosing the Right Visuals
-- Identified visuals that best explain insights:
-  - Bar Charts for category-wise comparison
-  - Line Charts for trend analysis
-  - Pie Charts for percentage distributions
-  - Heatmaps for geographic performance
-
----
-
-### ✅ Task 3: Creating Effective Visuals
-- Tools Used: `Tableau` / `Power BI`
-- Created a dashboard showcasing:
-  - Sales vs Targets
-  - Customer Demographics
-  - Regional Performance Heatmap
-  - Marketing Campaign Effectiveness
-
-📷 Screenshots available in `/images` folder
+### 🎤 Task 4: Communicating Insights and Analysis
+- **Objective:** Present insights and recommendations to stakeholders.
+- **Deliverable:** A video presentation summarizing the findings and business impact.
 
 ---
 
-### ✅ Task 4: Communicating Insights & Analysis
-- Summarized insights in a clean presentation
-- Recorded a video walk-through presenting:
-  - Key metrics
-  - Actionable recommendations
-  - Business impact interpretation
+## 🧠 Key Skills Practiced
 
-🎥 Watch the presentation: [Link to video or upload in repo]
-
----
-
-## 🛠️ Tools & Technologies
-| Tool       | Purpose                         |
-|------------|----------------------------------|
-| Python     | Data Cleaning & Preprocessing   |
-| MS Excel   | Initial Exploration             |
-| Tableau    | Interactive Dashboards          |
-| Power BI   | Business Visual Reports         |
+- Data Analysis & Cleaning  
+- Data Visualisation  
+- Business Insight Generation  
+- Dashboard Development  
+- Effective Communication  
+- Analytical Thinking  
+- Storytelling with Data
 
 ---
 
-## 📈 Skills Practiced
-- Data Analysis & Interpretation
-- Business Communication
-- Dashboard Design
-- Insight-Driven Storytelling
-- Effective Data Visualisation
+## 🏅 Certificate
+
+> ✔️ [https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_ZEMnFmX8B4YvopJFN_1746085906106_completion_certificate.pdf]
 
 ---
 
-## 📬 Contact
+## 👤 Author
 
 **Chaitanya Panicker**  
+**Chaitanya Panicker**  
 Email: [chaitanya.panicker98@gmail.com](mailto:chaitanya.panicker98@gmail.com)  
-LinkedIn: [linkedin.com/in/chaitanyapanicker](https://linkedin.com/in/chaitanyapanicker)
+LinkedIn: [linkedin.com/in/chaitanyapanicker](https://linkedin.com/in/chaitanyapanicker98)
 
 ---
 
-⭐ If you found this project helpful, feel free to star it or share feedback!
+## 📌 Note
 
+This internship was conducted as a simulation via [Forage](https://www.theforage.com/), designed to bridge the gap between academic knowledge and practical, real-world data analysis scenarios.
+
+
+⭐ If you found this project helpful, feel free to star it or share feedback!
