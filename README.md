@@ -29,13 +29,10 @@ The virtual internship involved four key stages:
 
 ## 🧠 Key Skills Practiced
 
-- Data Analysis & Cleaning  
-- Data Visualisation  
-- Business Insight Generation  
-- Dashboard Development  
-- Effective Communication  
-- Analytical Thinking  
-- Storytelling with Data
+- Framing the Business Scenario
+- Choosing the Right Visuals
+- Creating Effective Visuals
+- Communicating Insights and Analysis
 
 ---
 
