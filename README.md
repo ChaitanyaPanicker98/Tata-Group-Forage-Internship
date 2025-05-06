@@ -46,8 +46,7 @@ The virtual internship involved four key stages:
 ---
 
 ## 👤 Author
-
-**Chaitanya Panicker**  
+ 
 **Chaitanya Panicker**  
 Email: [chaitanya.panicker98@gmail.com](mailto:chaitanya.panicker98@gmail.com)  
 LinkedIn: [linkedin.com/in/chaitanyapanicker](https://linkedin.com/in/chaitanyapanicker98)
